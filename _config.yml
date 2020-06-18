@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://dadapunk.github.io
+url     : https://dadapunk.github.io/jekyll-TeXt-theme/
 baseurl : /
 title   : Your Site Title
 description: > # this means to ignore newlines until "Language & timezone"
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: dadapunk.github.io
+repository: dadapunk.github.io/jekyll-TeXt-theme/
 repository_tree: master
 
 
