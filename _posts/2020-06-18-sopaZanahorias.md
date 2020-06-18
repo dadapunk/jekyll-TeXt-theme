@@ -8,6 +8,7 @@ tags: sopas
 
 ```html
 <img class="image image--xs" src=""/>
+```
 
 
 ## Ingredientes
