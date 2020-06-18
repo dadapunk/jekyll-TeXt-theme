@@ -16,5 +16,6 @@ enjoy! :ghost: :ghost: :ghost:
 
 
 <!--more-->
+<img class="image image--md" src="https://github.com/dadapunk/recetas/blob/master/assets/images/sopaZanahoria.jpg"/>
 
 ---
