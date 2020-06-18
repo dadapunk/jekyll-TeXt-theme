@@ -2,9 +2,9 @@
 title: Sopa de Zanahoria
 tags: sopas
 ---
-### Extreme Small
+## Sopa de Zanahoria
 
-<img class="image image--xs" src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg"/>
+<img class="image image--xs" src="https://github.com/dadapunk/recetas/blob/master/assets/images/sopaZanahoria.jpg"/>
 
 ```html
 <img class="image image--xs" src=""/>
